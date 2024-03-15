@@ -1,0 +1,13 @@
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\bin\Debug\net8.0\Configurations.deps.json
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\bin\Debug\net8.0\Configurations.dll
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\bin\Debug\net8.0\Configurations.pdb
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\obj\Debug\net8.0\Configurations.csproj.AssemblyReference.cache
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\obj\Debug\net8.0\Configurations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\obj\Debug\net8.0\Configurations.AssemblyInfoInputs.cache
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\obj\Debug\net8.0\Configurations.AssemblyInfo.cs
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\obj\Debug\net8.0\Configurations.csproj.CoreCompileInputs.cache
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\obj\Debug\net8.0\Configurations.sourcelink.json
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\obj\Debug\net8.0\Configurations.dll
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\obj\Debug\net8.0\refint\Configurations.dll
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\obj\Debug\net8.0\Configurations.pdb
+C:\Users\Eldar\Desktop\CodeLesson\Lessons\Week 11\Day 5\SimpleMicroService\src\Configurations\obj\Debug\net8.0\ref\Configurations.dll

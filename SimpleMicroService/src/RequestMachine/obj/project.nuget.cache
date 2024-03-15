@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dnj4hoMLWF1KlBcpyJLHMoM8MqMu4AWdsTfpR8Sf/iO64IIcFwNQSXx5OViZZojpuoXFUeP6jIjDG8BT/lyJ/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eldar\\Desktop\\CodeLesson\\Lessons\\Week 11\\Day 5\\SimpleMicroService\\src\\RequestMachine\\RequestMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eldar\\.nuget\\packages\\mongodb.bson\\2.24.0\\mongodb.bson.2.24.0.nupkg.sha512",
+    "C:\\Users\\Eldar\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Eldar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
